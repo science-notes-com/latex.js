@@ -1,0 +1,6 @@
+@import url('article.css');
+
+:root,
+:host {
+  --paperwidth: min(100%, 680px);
+}
